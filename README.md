@@ -106,9 +106,9 @@ verifier and legal structure exist.
                          │       DRUNIX NETWORK          │
                          │                               │
                          │ Seller Org   Buyer Org        │
-                         │ Verifier Org Regulator Org   │
+                         │ Verifier Org Regulator Org    │
                          │                               │
-                         │ Chaincode + Ledger + PDCs    │
+                         │ Chaincode + Ledger + PDCs     │
                          └───────────────────────────────┘
 
 
