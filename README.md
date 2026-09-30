@@ -87,7 +87,7 @@ verifier and legal structure exist.
                                          ▼
                          ┌───────────────────────────────┐
                          │      MARKETPLACE BACKEND      │
-                         │ API • Auth • Listings • Trade  │
+                         │ API • Auth • Listings • Trade │
                          │ Matching • Notifications      │
                          └───────┬───────────────┬───────┘
                                  │               │
